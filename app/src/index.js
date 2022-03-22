@@ -1,5 +1,5 @@
 function init() {
-    console.log("### Starting MME Project ###");
+    console.log("### Starting Eyetracking Companion App ###");
 }
 
 init();

@@ -1,7 +1,7 @@
 {
-  "name": "MME Projects",
+  "name": "Eyetracking Classroom Companion",
   "version": "0.0.1",
-  "description": "A template for your MME Projects",
+  "description": "A Companion App for the Eyetracking Classroom",
   "type": "module",
   "main": "index.js",
   "watch": {

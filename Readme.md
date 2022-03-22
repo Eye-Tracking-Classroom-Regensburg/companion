@@ -1,1 +1,1 @@
-# Template für die MME-Projekte
+# Eyetracking Classroom Companion App
